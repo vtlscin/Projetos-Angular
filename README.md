@@ -1,5 +1,8 @@
 # ProjetoFinal
 
+This project includes 7 others projects:
+calculadora, conversor de moedas, dashboard, gerenciador de tarefas e jogo da velha.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
 ## Development server
